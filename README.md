@@ -42,3 +42,4 @@ This project is a desktop graphical user interface (GUI) built with Python and T
 ## License
 
 Specify your preferred license (e.g., MIT, GPL) here. If you are unsure, you can leave this section as-is and update later.
+
