@@ -38,8 +38,3 @@ This project is a desktop graphical user interface (GUI) built with Python and T
 1. Fork the repository
 2. Create a new branch for your changes
 3. Submit a pull request with a clear description of your updates
-
-## License
-
-Specify your preferred license (e.g., MIT, GPL) here. If you are unsure, you can leave this section as-is and update later.
-
